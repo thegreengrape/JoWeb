@@ -2,7 +2,7 @@
 
 ### Info
 
-Sebweb is a modded version of the Google Search Engine. It injects css and html into the search results page and it has a custom home page.
+Sebweb is a modded version of the Google Search Engine. It injects css and html into the search results page and it has a custom home page. This is still in beta
 
 ### Why does it exist?
 
@@ -18,4 +18,4 @@ Sebweb exists because I was bored.
 
 ---
 
-ⓘ Not all stated features are currently active in the released version
+ⓘ feature(s) are currently not in the public release version
