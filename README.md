@@ -11,6 +11,7 @@ Sebweb exists because I was bored.
 ### Features
 
 - Custom homepage
+- Customisable homepage ⓘ
 - Remove sponsored ads ⓘ
 - Custom background in search results ⓘ
 - support for custom themes ⓘ
