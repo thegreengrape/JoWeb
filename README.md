@@ -1,12 +1,12 @@
-# SEBWEB
+# JOWEB
 
 ### Info
 
-Sebweb is a modded version of the Google Search Engine. It injects css and html into the search results page and it has a custom home page. This is still in beta
+JoWeb is a metasearch engine. It relies on the Google Custom Search Engine, amongst other things in order to function. This is still in beta
 
 ### Why does it exist?
 
-Sebweb exists because I was bored.
+JoWeb exists because I was bored.
 
 ### Features
 
