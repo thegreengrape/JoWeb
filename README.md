@@ -1,12 +1,12 @@
-# JOWEB
+# SEBWEB
 
 ### Info
 
-JoWeb is a metasearch engine. It relies on the Google Custom Search Engine, amongst other things in order to function. This is still in beta
+SebWeb is a metasearch engine. It relies on the Google Custom Search Engine, amongst other things in order to function. This is still in beta
 
 ### Why does it exist?
 
-JoWeb exists because I was bored.
+SeWeb exists because I was bored.
 
 ### Features
 
