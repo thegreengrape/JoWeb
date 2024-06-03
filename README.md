@@ -6,7 +6,7 @@ SebWeb is a metasearch engine. It relies on the Google Custom Search Engine, amo
 
 ### Why does it exist?
 
-SeWeb exists because I was bored.
+SebWeb exists because I was bored.
 
 ### Features
 
